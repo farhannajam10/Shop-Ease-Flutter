@@ -1,8 +1,5 @@
 # Shop Ease
 
-A new Flutter project.
-# Shop-Ease-Flutter 
-
 A cross platform mobile application using flutter framework and firebase backend. 
 some key concepts used in this application are Flutter State Management (Provider Package),User Authentication, Integration with REST API 
 
@@ -13,6 +10,10 @@ To ensure safety, we want to build a mobile application for shopping online.
 To protect cart details and shopping details, proper credentials will be needed for login. 
 Customers can buy or sell their products with ease of being at home. Easy and interactive interface makes it easy for anyone to use this application. 
 Customers can manage their orders properly and track their orders,  can put up photos and list details of their products.   
+## Image:
+
+![pic1](https://user-images.githubusercontent.com/55998312/105608146-0f80bb00-5dc4-11eb-94eb-2e25c648f166.PNG)
+
 # Key Features: 
 
  Any member can register and view available products. 
